@@ -5,3 +5,4 @@
 - 🐧: Focusing on Vue
 - 🌇: Meat lover
 - 🐳：Meet you
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=1411430556&layout=compact)
