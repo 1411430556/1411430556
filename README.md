@@ -11,6 +11,9 @@
 - 🐧: Focusing on Vue
 - 🌇: Meat lover
 - 🐳：Meet you
+
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
+
 <p align="center">
   <a href="https://card.yuy1n.io">
 		<img src="https://card.yuy1n.io/card/76561198420835192/solarized-light,badge,group,bg-game,games,badges,screenshots" />
