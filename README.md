@@ -1,6 +1,5 @@
 <h1 align="center">Thank you for seeing me👋, My <img src="https://profile-counter.glitch.me/1411430556/count.svg" alt="android" width="300" height="40"/> visitor </h1>
 
-![Header](https://qiniu.fc-barcelona.cn/image/header_.png)
 <p align="center">
 	<img align="center" height="137px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=1411430556&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 	<img align="center" height="137px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=1411430556&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
