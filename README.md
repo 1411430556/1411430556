@@ -5,7 +5,15 @@
 	<img align="center" height="137px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=1411430556&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </p>
 	
+
+
+<div align="center">
+	
 ![snake](https://raw.githubusercontent.com/1411430556/1411430556/refs/heads/output/github-contribution-grid-snake.svg)
+	
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1411430556&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
+
+</div>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1EC74FDC&vCenter=true&width=435&lines=%F0%9F%97%A8%EF%B8%8F%EF%BC%9Aconsole.log('Hello%2C+World!');%F0%9F%90%A7%3A+Focusing+on+Vue%2FNuxt;%F0%9F%8C%87%3A+Meat+lover;%F0%9F%90%B3%EF%BC%9AMeet+you;%F0%9F%92%95%EF%BC%9AThank+you!)](https://git.io/typing-svg)
 
