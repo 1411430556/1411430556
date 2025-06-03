@@ -9,7 +9,7 @@
 
 <div align="center">
 	
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1411430556&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1411430556&theme=gruvbox&row=1&column=-1&no-frame=true&no-bg=true)
 ![snake](https://raw.githubusercontent.com/1411430556/1411430556/refs/heads/output/github-contribution-grid-snake.svg)
 
 </div>
