@@ -13,6 +13,9 @@
 - 🐳：Meet you
 - 💕：Thank you!
 
+<!-- 波浪分隔线 -->
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
 <p align="center">
