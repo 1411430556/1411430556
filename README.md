@@ -29,8 +29,8 @@
 
 <p align="center">
   <a href="https://card.yuy1n.io">
-		<img src="https://card.yuy1n.io/card/76561198420835192/solarized-light,badge,group,bg-game,games,badges,screenshots" />
-   </a>
+	<img src="https://card.yuy1n.io/card/76561198420835192/solarized-light,badge,group,bg-game,games,badges,screenshots" />
+  </a>
 </p>
 <p align="center">
 <img src="https://netease-recent-profile.vercel.app/?id=253570479&theme=card&type=0&title=最近在听&size=60" alt="Netease recently played" title="Netease recently played">
