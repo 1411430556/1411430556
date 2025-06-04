@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://card.yuy1n.io">
-	<img src="https://card.yuy1n.io/card/76561198420835192/solarized-light,badge,group,bg-game,games,badges,screenshots" />
+	<img src="https://card.yuy1n.io/card/76561198420835192/gradient3,badge,group,text-0f0f0f,bg-b5fffb-c7ffff-dbffff-ecfcff-f9f2ff-ffe8fa-ffdeea,badges,games,screenshots" />
   </a>
 </p>
 <p align="center">
