@@ -10,6 +10,7 @@
 <div align="center">
 	
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1411430556&theme=gruvbox&column=-1&no-frame=true&no-bg=true)
+<br>
 ![snake](https://raw.githubusercontent.com/1411430556/1411430556/refs/heads/output/github-contribution-grid-snake.svg)
 
 </div>
