@@ -4,14 +4,17 @@
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-duolaameng-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/44113085)
 
+##### Visit count (since 23 Jun 2025):
+![](https://count.getloli.com/get/@1411430556?theme=booru-lewd)
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,git,nodejs,npm,vite,vscode,webstorm,windicss,windows,github,instagram&theme=light)
+
 </div>
 
 <p align="center">
 	<img align="center" height="137px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=1411430556&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 	<img align="center" height="137px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=1411430556&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </p>
-	
-
 
 <div align="center">
 	
