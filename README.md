@@ -5,7 +5,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-duolaameng-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/44113085)
 
 ##### Visit count (since 23 Jun 2025):
-![](https://count.getloli.com/get/@1411430556?theme=booru-lewd)
+![1411430556](https://count.getloli.com/@1411430556?name=1411430556&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,git,nodejs,npm,vite,vscode,webstorm,windicss,windows,github,instagram&theme=light)
 
