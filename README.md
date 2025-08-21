@@ -1,11 +1,9 @@
-<h1 align="center">Thank you for seeing me👋, My <img src="https://profile-counter.glitch.me/1411430556/count.svg" alt="android" width="300" height="40"/> visitor </h1>
-
 <div align="center">
-
-[![Bilibili](https://img.shields.io/badge/Bilibili-duolaameng-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/44113085)
 
 ##### Visit count (since 23 Jun 2025):
 ![1411430556](https://count.getloli.com/@1411430556?name=1411430556&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-duolaameng-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/44113085)
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,git,nodejs,npm,vite,vscode,webstorm,windicss,windows,github,instagram&theme=light)
 
