@@ -16,10 +16,10 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1411430556&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1411430556&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1411430556&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1411430556&theme=dark&utcOffset=8)
+![](https://raw.githubusercontent.com/1411430556/1411430556/main/profile-summary-card-output/dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/1411430556/1411430556/main/profile-summary-card-output/dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/1411430556/1411430556/main/profile-summary-card-output/dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/1411430556/1411430556/main/profile-summary-card-output/dark/4-productive-time.svg)
 
 </div>
 
