@@ -15,6 +15,15 @@
 </p>
 
 <div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1411430556&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1411430556&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1411430556&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1411430556&theme=dark&utcOffset=8)
+
+</div>
+
+<div align="center">
 	
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1411430556&theme=gruvbox&column=-1&no-frame=true&no-bg=true)
 <br>
